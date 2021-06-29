@@ -5,9 +5,8 @@ Here are a few things about me:
 
 - 🔭 I’m currently working on BuyPlus
 - 🌱 I’m currently learning ReactJS
-- 👯 I’m looking to collaborate on Python(Django) and Flutter
+- 👯 I’m looking to collaborate on Django and Flutter
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/shubham2909/)
-- 🖥️ My portfolio website : [click me](http://humshubham.live/)
 - ⚡ Fun fact: I love working on anything related to Python
 
 <h2 align="center">⚡️ Technology Stacks</h2>
