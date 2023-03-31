@@ -3,9 +3,9 @@
 
 Here are a few things about me:
 
-- 🔭 I’m currently working on BuyPlus
+<!-- - 🔭 I’m currently working on BuyPlus
 - 🌱 I’m currently learning ReactJS
-- 👯 I’m looking to collaborate on Django
+- 👯 I’m looking to collaborate on Django -->
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/shubham2909/)
 - ⚡ Fun fact: I love working on anything related to Python
 
